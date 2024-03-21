@@ -44,8 +44,8 @@ namespace WpfApp1
 
                 Read(path);
 
-                rectangeStatus.Fill = Brushes.Green;
-                textBlockTest.Text = "  Zapsáno!";
+                rectangeStatus.Fill = Brushes.Gray;
+                textBlockTest.Text = " Otevřeno!";
             }
         }
 
