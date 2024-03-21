@@ -41,6 +41,7 @@ namespace WpfApp1
             {
                 path = OD.FileName;
                 buttonWrite.IsEnabled = true;
+                buttonVymazObsah.IsEnabled = true;
 
                 Read(path);
 

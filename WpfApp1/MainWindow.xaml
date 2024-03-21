@@ -65,7 +65,9 @@
                 Content="Vymaz Obsah"
                 HorizontalAlignment="Left"
                 Margin="377,356,0,0"
-                VerticalAlignment="Top" Click="buttonVymazObsah_Click"
+                VerticalAlignment="Top"
+                Click="buttonVymazObsah_Click"
+                IsEnabled="False"
                 />
         <Label Content="←"
                HorizontalAlignment="Left"
